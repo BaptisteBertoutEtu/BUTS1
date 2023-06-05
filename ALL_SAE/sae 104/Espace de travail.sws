@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="16.7.1.6488"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model ID="{F4B4A4EB-6402-4DBE-B19F-2764809578E7}" Name="ModeleConceptuelDonnees_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees_2.mcd"/>
+		<Model Expanded="Yes" ID="{C0CE65B9-80F3-45A1-9C01-A4047A2FD767}" Loaded="No" Name="ModeleConceptuelDonnees_1" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ModeleConceptuelDonnees_1.mpd"/>
+		<Model ID="{C0CE65B9-80F3-45A1-9C01-A4047A2FD767}" Loaded="No" Name="ModeleConceptuelDonnees_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ModeleConceptuelDonnees_1.mpd"/>
+		<Model Expanded="Yes" ID="{C0CE65B9-80F3-45A1-9C01-A4047A2FD767}" Name="ModeleConceptuelDonnees_1" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ModeleConceptuelDonnees_1.mpd"/>
+	</Local>
+	<BrowserModule Name="Repository"/>
+</Workspace>

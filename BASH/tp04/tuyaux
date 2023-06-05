@@ -1,0 +1,7 @@
+:GGG: la commande tty (5) permet de connaître le fichier associé au terminal
+:HHH: la commande pipe (4) sert à la communication entre processus
+:EEE: la commande tee (3) est utile pour capturer les informations qui circulent dans un pipe
+:DDD: la commande tee (2) recopie son entrée standard sur sa sortie standard et sur un fichier
+:CCC: la commande tee (1) peut être utilisée pour sauvegarder dans un fichier les traces des 
+:BBB: informations qui circulent sur sa sortie standard. 
+:AAA: qu'est-ce qu'un pipe (0) et que fait la commande TEE (c'est pourtant simple)

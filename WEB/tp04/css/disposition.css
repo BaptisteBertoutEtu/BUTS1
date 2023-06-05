@@ -1,0 +1,49 @@
+/*Positionnement fixed*/
+body {
+	margin: 0;
+	padding: 0;
+}
+body>header, body>footer {
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	margin: 0;
+	padding: 10px;
+	background-color: cyan;
+	text-align: center;
+}
+body>header {
+	top: 0;
+}
+body>footer {
+	bottom: 0;
+}
+
+nav {
+	position: fixed;
+	left: 5px;
+	top: 100px;
+	margin: 0;
+	padding: 2px;
+	width: 18%;
+	border: thin solid yellow;
+}
+
+main {
+	margin: 100px 1% 100px 19%;
+	border: thin solid blue;
+}
+
+article {
+	margin: 5px;
+	border: thin solid purple;
+}
+
+section {
+	margin: 5px;
+	border: thin solid green;
+}
+
+table, td ,th {
+	border: thin solid red;
+}

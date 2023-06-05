@@ -1,0 +1,44 @@
+body>header{
+    color: yellow;
+    font: italic bold 25px normal;
+    text-align: center;
+}
+
+body>footer{
+    color: black;
+    font: italic bold 20px normal;
+    text-align: center;
+}
+
+footer>a,nav a{
+    color: green;
+}
+
+ul{
+    list-style-image: url(./../images/bleu.png)
+}
+
+a:hover{
+    color: blue; 
+    background-color: lightgray;
+}
+
+header, h3{
+    color: yellow;
+    background-color: blue;
+    margin: 10px 0px 0px;
+    height: 50px;
+    font: italic bold 25px normal;
+    text-align: left;
+}
+
+h2,p{
+    color:blue;
+    font-weight:bold;
+}
+
+table{
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+}

@@ -1,0 +1,1 @@
+zcat annuaire.csv.gz | sed 1d
